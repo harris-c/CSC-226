@@ -1,7 +1,7 @@
 <?php
 function login()
 {
-	@ $db = new mysqli('localhost', 'christopher', 'Virfidelis2016', 'christopher_final');
+	@ $db = new mysqli('localhost', '*********', '**********', 'christopher_final');
 	return $db;
 	}
 ?>
